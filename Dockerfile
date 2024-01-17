@@ -1,4 +1,4 @@
-FROM james00123/wd:latest
+FROM james00123/uff:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
